@@ -1,4 +1,4 @@
-package cl.ripley.tef.utils;
+package cl.ripley.tef.submodulo;
 
 import java.nio.charset.StandardCharsets;
 
